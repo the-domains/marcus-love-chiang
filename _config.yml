@@ -1,29 +1,41 @@
-name: Marcus Love Chiang
-favicon: null
-layout_spectrum: 0.938539358554408
-typography_spectrum: 0.9913896033540368
 title: Creative Incubator
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5649571
+  brandStrength: 0.6911923
+  lightness: 0.1251342
+  brandColors:
+    - '#FFFFFF'
+    - '#030303'
+    - '#1F62CE'
+    - '#8910FF'
+    - '#F0FF1D'
+  rhythmicContrast: 0.4702003
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Marcus Love Chiang
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7262079599313438
-  lightness: 0.0612119366414845
-  saturation: 0.5649571507237852
-  rhythmicContrast: 0.47020030836574733
-purpose: []
+typography_spectrum: 0.9913896033540368
+layout_spectrum: 1
