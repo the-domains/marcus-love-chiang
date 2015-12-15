@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Creativity starts here.
-datePublished: '2015-12-15T08:19:32.756Z'
-dateModified: '2015-12-15T07:46:38.734Z'
+datePublished: '2015-12-15T08:20:04.677Z'
+dateModified: '2015-12-15T08:19:32.756Z'
 title: Creative Incubator
 author: []
 authors: []
