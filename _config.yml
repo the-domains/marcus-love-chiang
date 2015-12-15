@@ -1,0 +1,28 @@
+name: Marcus Love Chiang
+favicon: null
+layout_spectrum: 0.938539358554408
+typography_spectrum: 0.9913896033540368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7262079599313438
+  lightness: 0.0612119366414845
+  saturation: 0.5649571507237852
+  rhythmicContrast: 0.47020030836574733
+purpose: []
